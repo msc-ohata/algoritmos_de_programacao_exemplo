@@ -13,11 +13,13 @@ Início
           Fim Enquanto
      Fim Enquanto    
 
-Fim 
+Fim
+
+
 --------------------------------------------------------
 
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+![fluxograma](https://github.com/msc-ohata/algoritmos_de_programacao_250422/blob/main/fluxograma.png)
 
-https://github.com/msc-ohata/algoritmos_de_programacao_250422/blob/main/fluxograma.png?raw=true
+
 
 
